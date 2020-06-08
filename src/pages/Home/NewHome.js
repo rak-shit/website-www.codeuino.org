@@ -6,6 +6,7 @@ import LandingPageComponent from './Components/LandingPageComponent'
 import Activities from './Components/Activities'
 import Partners from './Components/Partners'
 import TweetFeeds from '../../components/TwitterFeeds/TwitterFeeds'
+import Program from '../../components/Programs/Program'
 const NewHome = () => {
     return (
         <div>
@@ -14,6 +15,7 @@ const NewHome = () => {
 			<div class="mt-12">
 				<LandingPageComponent/>
 				<Projects/>
+				<Program />
 				<Activities/>
 				<Partners/>
 				<TweetFeeds/>

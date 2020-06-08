@@ -5,7 +5,7 @@ import card from '../images/card.svg'
 import './common.css'
 const Projects = () => {
     return (
-        <section class="mt-5 pt-md-11">
+        <section class="mt-5 pt-md-11" id="projects">
 					<div class="container">
 							<div class="row justify-content-center">
 							<div class="col-12 col-md-10 col-lg-10 text-center"><span class="badge badge-pill badge-primary-soft mb-3"><span class="h6 text-uppercase font-weight-bold">Opensource</span></span>

@@ -1,0 +1,39 @@
+#programs {
+    margin-bottom: 100px;
+  }
+  
+  .content-heading {
+    margin-bottom: 60px;
+  }
+  
+  h1 {
+      font-weight: 600;
+      font-size: 48px;
+  }
+  
+  .custom-column {  
+    background-color: #eee;
+    border: 5px solid #eee;    
+    padding: 10px;
+    box-sizing: border-box;  
+  }
+  
+  .custom-column-header {
+    font-size: 24px;
+    background-color: #007bff;  
+    color: white;
+    padding: 15px;  
+    text-align: center;
+  }
+  
+  .custom-column-content {
+    background-color: #fff;
+    border: 2px solid white;  
+    padding: 20px;  
+  }
+  
+  .custom-column-footer {
+    background-color: #eee;   
+    padding-top: 20px;
+    text-align: center;
+  }
