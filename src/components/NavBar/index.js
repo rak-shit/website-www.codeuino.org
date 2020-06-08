@@ -49,7 +49,7 @@ const NavBar = () => {
             <a class="nav-link" href="https://docs.codeuino.org/documentation/">Docs<span class="sr-only">(current)</span></a>
           </li>
           <li class="nav-item">
-            <Link class="nav-link">Collaborate<span class="sr-only">(current)</span></Link>
+            <Scrollchor class="nav-link" to="#collaborate">Collaborate<span class="sr-only">(current)</span></Scrollchor>
           </li>
           <li class="nav-item">
             <Link class="nav-link" to="/codeofconduct">Code of Conduct<span class="sr-only">(current)</span></Link>

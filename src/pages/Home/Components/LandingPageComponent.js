@@ -20,7 +20,7 @@ const LandingPageComponent = () => {
 							</div>
 							</div>
 							<DonateCard/>
-							<div class="container mt-10 ml-0" id="about" style={{width:"100%",alignContent:"left"}}>
+							<div class="container mt-10 ml-0" style={{width:"100%",alignContent:"left"}}>
 								<div class="row" style={{textAlign:"left"}}>
 									<div class="col-md-4 col-12">
 										<span class="fa fa-question-circle fa-2x mr-1" style={{color:" #22247A"}}></span>
