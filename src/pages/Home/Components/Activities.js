@@ -57,7 +57,7 @@ class Activities extends React.Component {
     return (
       <div id='activity'>
         <h1 className='component-heading'>Activities</h1>
-        <div className='container-fluid d-flex justify-content-center'>
+        <div className='container d-flex justify-content-center actcards'>
           <div className='row'>
             {this.state.activities.map((currentActivity, index) => {
               return (
