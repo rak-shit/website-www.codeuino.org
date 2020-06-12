@@ -55,7 +55,7 @@ const NavBar = () => {
             <Link class="nav-link" to="/codeofconduct">Code of Conduct<span class="sr-only">(current)</span></Link>
           </li>
           <li class="nav-item">
-            <Link class="nav-link" to="/newblog">Blogs<span class="sr-only">(current)</span></Link>
+            <Scrollchor class="nav-link" to="#activity">Blogs<span class="sr-only">(current)</span></Scrollchor>
           </li>
           <li class="nav-item">
             <Scrollchor class="nav-link" to="#donate" >Donate<span class="sr-only">(current)</span></Scrollchor>
