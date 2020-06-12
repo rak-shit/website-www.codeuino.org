@@ -6,7 +6,7 @@ import DonateCard from '../../../components/DonateUs/Donate'
 const LandingPageComponent = () => {
     return (
         <section class="pt-4 pt-md-5">
-					<div class="container-fluid">
+					<div class="container">
 						<div class="row align-items-center">
 							<div class="col-12 col-md-5 col-lg-6 order-md-2">
 								<img src={Banner} class="img-fluid mw-md-100 mw-lg-100 mb-6 mb-md-0" alt="all-channels" />

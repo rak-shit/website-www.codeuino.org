@@ -61,7 +61,11 @@
 }
 
 .img-fluid {
-    width: 1500px;
+    width: 1000px;
+}
+
+.index-content {
+    margin-left: 5rem;
 }
 
 
