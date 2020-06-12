@@ -12,8 +12,8 @@ const Projects = () => {
 								<h1 class="component-heading">Our Projects</h1>
 								{/* <p class="font-size-lg text-muted mb-7">Codeuino is a Non-Profit Open Source Social Networking organisation that provides various robust frameworks solutions which could span the entire world through building all kinds of social environments, discussion portals and collaboration platforms by giving prospectus to various other organisations, users and outreachers to showcase their products in a custom way. This wide social open networking framework organisation is driven by the volunteers all over the globe. This helps open source enthusiast to build up various technocratic social wide living softwares and researching FOSS projects under code survivors and challenging world. Codeuino takes into house the development of some of the coolest Open Source Projects that are made with the sole motive to benefit more and more people present all over the world.</p> */}
 								<div class="row">
-									<div class="col-md-6 col-12" style={{display:"flex",justifyContent:"space-around"}}>
-										<img className="img-fluid" style={{width: "100%"}} src={donut}/>
+									<div class="col-md-6 col-12 procard">
+										<img className="img-fluid" src={donut}/>
 									</div>
 									<div class="col-md-6 col-12">
 										<h1>Donut</h1>
@@ -37,8 +37,8 @@ const Projects = () => {
 											</div>
 										</div>
 									</div>
-									<div class="col-md-6 col-12 mt-10"style={{display:"flex",justifyContent:"space-around"}}>
-										<img className="img-fluid" style={{width: "100%"}} src={codebadge}/>
+									<div class="col-md-6 col-12 mt-10 procard">
+										<img className="img-fluid" src={codebadge}/>
 									</div>
 								</div>
 							</div>

@@ -33,7 +33,7 @@
 
 .row {
     margin: 0 auto;
-    max-width: 1000px;
+    max-width: 2000px;
     width: 100%;
 }
 
@@ -54,3 +54,14 @@
     font-weight: 600;
     color: gray;
 }
+
+.procard {
+    margin: auto;
+    max-width: 1000px;
+}
+
+.img-fluid {
+    width: 1500px;
+}
+
+
